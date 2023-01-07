@@ -9,11 +9,22 @@ const INMUTABLE_CACHE = 'inmutable-v3';
 
 const APP_SHELL = [
          //'/',
-      
+         'index.html',
+         'imagenes/icons/icon-72x72.png',
+         'imagenes/icons/icon-96x96.png',
+         'imagenes/icons/icon-128x128.png',
+         'imagenes/icons/icon-144x144.png',
+         'imagenes/icons/icon-152x152.png',
+         'imagenes/icons/icon-192x192.png',
+         'imagenes/icons/icon-384x384.png',
+         'imagenes/icons/icon-512x512.png',
+         'js/sw-utils.js',
+         'js/app.js'
+
 ];
 
 const APP_SHELL_INMUTABLE = [
-    
+    '//cdn.jsdelivr.net/npm/sweetalert2@11'
 ];
 
 
